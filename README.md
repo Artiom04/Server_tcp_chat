@@ -34,7 +34,7 @@ Usa il seguente comando per compilare il server:
 
 ```bash
 gcc server_tcp_simple.c -o server_tcp_simple
-
+```
 
 
 
